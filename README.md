@@ -40,13 +40,6 @@ I build:
 
 ## 📌 Featured Projects
 
-### 🛒 Ecommerce Website
-Laravel based ecommerce platform with:
-- Cart System
-- Checkout
-- Admin Panel
-- Product Management
-
 ### 📰 News Portal CMS
 Dynamic news website with:
 - Category Management
