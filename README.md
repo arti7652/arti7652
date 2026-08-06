@@ -83,7 +83,7 @@ Multi-level referral and commission management system.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/arti7652
-- Email: your-email@gmail.com
+- Email: artirajput7652@gmail.com
 
 ---
 
