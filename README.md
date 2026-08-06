@@ -2,7 +2,7 @@
 
 ## PHP Laravel Developer
 
-💻 Backend Developer with 1+ year experience in Laravel Development.
+Laravel Backend Developer | REST APIs | MySQL | Admin Panels
 
 I build:
 - Dynamic Websites
