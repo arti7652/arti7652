@@ -68,6 +68,7 @@ Multi-level referral and commission management system.
 
 - GitHub: https://github.com/arti7652
 - Email: artirajput7652@gmail.com
+- Linkdin link: https://www.linkedin.com/in/artirajput-dev/
 
 ---
 
