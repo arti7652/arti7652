@@ -69,15 +69,6 @@ Multi-level referral and commission management system.
 - API Security
 - AI Tools Integration
 - Clean Architecture
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arti7652&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arti7652&layout=compact)
-
 ---
 
 ## 📫 Connect With Me
